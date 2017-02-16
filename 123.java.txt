@@ -26,9 +26,16 @@ again update by sravn
 vdjfhvdsfdbfbbx_modified
 
 abcderfjggjdhgdfsdlfslk
+<<<<<<< HEAD
+apex consultancy
+=======
 GaryKris
+
+
+abcdef
 
 updated by ameetha
 
 
 updated by s
+>>>>>>> e4d9f4ae3aea2f7cc0e69e6f290676d95db7e662
